@@ -1,0 +1,65 @@
+[
+  {
+    "dsin": "MAG-100471.05",
+    "description": "Magmus 3\" Brass Locking L Hinges Satin Silver Premium 3\" x 3/8 x 1.1/4 x 6 mm",
+    "amount": "199.00",
+    "hsn": 83021020,
+    "gst": "18.0",
+    "unit": "Pcs",
+    "discount": 10
+  },
+  {
+    "dsin": "MAG-100471.08",
+    "description": "Magmus 3\" Brass Locking L Hinges Satin Black Premium 3\" x 3/8 x 1.1/4 x 6 mm",
+    "amount": "253.00",
+    "hsn": 83021020,
+    "gst": "18.0",
+    "unit": "Pcs",
+    "discount": 5
+  },
+  {
+    "dsin": "MAG-100472.05",
+    "description": "Magmus 3\" Brass Locking L Hinges Satin Silver Premium 3\" x 3/8 x 1.1/4 x 12 mm",
+    "amount": "217.00",
+    "hsn": 83021020,
+    "gst": "18.0",
+    "unit": "Pcs",
+    "discount": 0
+  },
+  {
+    "dsin": "MAG-802010.05",
+    "description": "Magmus Brass Folding Bracket Premium Satin Silver 2\" x 10 mm",
+    "amount": 210,
+    "hsn": 8302,
+    "gst": "18.0",
+    "unit": "Pcs",
+    "discount": 0
+  },
+  {
+    "dsin": "MAG-802012.05",
+    "description": "Magmus Brass Folding Bracket Premium Satin Silver 2\" x 12 mm",
+    "amount": 220,
+    "hsn": 8302,
+    "gst": "18.0",
+    "unit": "Pcs",
+    "discount": 0
+  },
+  {
+    "dsin": "MAG-103796.07",
+    "description": "Magmus Furniture Glide Plint Pin 22 mm",
+    "amount": 30,
+    "hsn": 8302,
+    "gst": "18.0",
+    "unit": "Pcs",
+    "discount": 0
+  },
+  {
+    "dsin": "MAG-100141.00",
+    "description": "Magmus 3\" S.S. Butt Door Hinges - Welded Soft Movement Matt 3\" x 16",
+    "amount": 51,
+    "hsn": 83021010,
+    "gst": "18.0",
+    "unit": "Pcs",
+    "discount": 0
+  }
+]
