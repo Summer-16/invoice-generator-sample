@@ -6,6 +6,7 @@ import {
   TextField, CardHeader, InputLabel, MenuItem, FormControl, Select
 } from '@mui/material';
 
+const baseUrl = "http://localhost:2000/";
 
 // Added some default value to save input time while testing
 const defaultForm = {
@@ -29,7 +30,7 @@ function App() {
   useEffect(() => {
     axios({
       method: 'get',
-      url: 'http://localhost:2000/products',
+      url: baseUrl + 'products',
     })
       .then(function (response) {
         if (response.data.success) {
@@ -100,7 +101,7 @@ function App() {
 
     axios({
       method: 'post',
-      url: 'http://localhost:2000/genInvoice',
+      url: baseUrl + 'genInvoice',
       responseType: 'arraybuffer',
       headers: {
         'Content-Type': 'application/json',
